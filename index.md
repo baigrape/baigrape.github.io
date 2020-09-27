@@ -14,7 +14,7 @@
 
 #### 班级及专业：软件工程信1705-2班
 
-#### GItHUB个人主页地址：https://github.com/baigrape/baigrape.github.io
+#### GItHUB个人主页地址：https://baigrape.github.io
 
 
 ### 学习情况
