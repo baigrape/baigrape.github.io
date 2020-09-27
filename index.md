@@ -1,37 +1,64 @@
-## Welcome to GitHub Pages
+### 个人情况简介
 
-You can use the [editor on GitHub](https://github.com/baigrape/baigrape.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+#### 个人资料：石家庄铁道大学信息科学技术学院软件工程专业信1705-2班
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+#### 真实姓名：白明霞
 
-### Markdown
+#### 性别：女
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+#### 年龄：21
 
-```markdown
-Syntax highlighted code block
+#### 籍贯：河北省衡水市
 
-# Header 1
-## Header 2
-### Header 3
+#### 所在学校及学院：石家庄铁道大学信息科学技术学院
 
-- Bulleted
-- List
+#### 班级及专业：软件工程信1705-2班
 
-1. Numbered
-2. List
+#### GItHUB个人主页地址：https://github.com/baigrape/baigrape.github.io
 
-**Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
-```
+### 学习情况
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+- 综合测评成绩71.13
+- 成绩名次 9/31
 
-### Jekyll Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/baigrape/baigrape.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+### 荣誉奖励
 
-### Support or Contact
+* 中国大学生计算机设计大赛国家三等奖
+* 校级网页设计大赛优秀奖
+* 省级期刊论文一篇
+* 科技创新单项奖学金
+* 2项软件著作权
+* 一项实用新型专利已受理
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+
+### 社会活动情况
+
+* 假期参与志愿活动
+
+
+### 专业博客发表
+
+#### 博客园发表博客110篇
+
+
+### 专业技能展示
+
+#### 学习了C，C++，Python,java等多种编程语言
+#### 较为熟练地掌握了html页面美化
+
+
+### 专业实践情况
+* 
+
+
+
+
+
+
+
+
+
+
+
